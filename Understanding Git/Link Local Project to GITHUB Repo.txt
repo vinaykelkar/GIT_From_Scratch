@@ -1,0 +1,22 @@
+How to Link Local Project to GITHUB repo
+
+1. git remote https://github.com/vinaykelkar/Learning_Git.git
+
+Imagine you need to know which git repo URL is linked to your local repo
+
+2. git remote -v
+
+Now we need to push these changes to our URL/online repo
+
+3. git push origin <branch_name>
+git push origin master
+
+NOTE: It is possible that you will be asked username and password for the first time you push the repo in github.com 
+
+You can do following 
+
+a. Enable credentials storage in your git repo
+git config credential.helper store
+
+b. Enable credentials storage globally 
+git config credential.helper store
