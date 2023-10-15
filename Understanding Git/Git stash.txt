@@ -1,0 +1,15 @@
+Imagine you are working on project and particular feature. You have written a piece of code but want to create a new clean coding file without committing the existing piece of code. 
+
+How do you do that? 
+
+We use git stash
+
+1. git stash
+
+Imagine you want to get back those changes/files back to staging area
+
+2. git stash pop
+
+Imagine, you wish to permanently remove those backstage changes and dont want to get them back to staging area
+
+3. git stash clear
