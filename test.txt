@@ -1,3 +1,0 @@
-Lets test if same branch name can be pushed / merged or not. 
-User vinay has already created a branch with name "basics" and already pushed changes
-User Linuxmint has now created a local branch named "basics". Lets see if it can be pushed
